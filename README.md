@@ -1,1 +1,2 @@
-# Photo-Gallery. https://rohitkumar14203.github.io/Photo-Gallery/
+# Photo-Gallery:
+https://rohitkumar14203.github.io/Photo-Gallery/
